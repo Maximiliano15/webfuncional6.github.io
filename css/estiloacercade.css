@@ -1,0 +1,79 @@
+#menu {
+	background-color: #000;
+}
+
+#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu ul li{
+	display: inline-block;
+	
+}
+
+#menu ul li a {
+	color: white;
+	display: block;
+	padding: 11px;
+	text-decoration: none;
+
+}
+
+#navegar{
+	width:10%;
+	float: right;
+    
+
+}
+
+h1{
+	text-align: center;
+	color: brown;
+}
+
+#images{
+	margin-right: 170px;
+	margin-top: 40px;
+}
+
+#somos {
+ color: brown;
+ font-size: 26px;
+ border: black 5px solid;
+ margin-left: 39px;
+ margin-right: 750px;
+ text-align: center;
+ margin-top: 45px;
+
+
+}
+
+#imagen {
+	margin-left: 170px;
+	margin-top: 60px;
+
+}
+
+#origen {
+	color: blue;
+	font-size: 30px;
+	border: brown 5px solid;
+	margin-right: 39px;
+	margin-left: 750px;
+	text-align: center;
+	margin-top: 45px;
+
+}
+
+#sigbutton{
+	text-align: right;
+}
+#footer ul li{
+	padding:  4px 120px ;
+	margin: 0;
+	display: inline-block;
+	color: black;
+
+}
